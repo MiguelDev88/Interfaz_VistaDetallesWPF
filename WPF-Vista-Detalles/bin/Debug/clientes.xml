@@ -2,23 +2,23 @@
 <ArrayOfCliente xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Cliente>
     <dni>55443322Y0</dni>
-    <nombre>Pedro Gonzalez Sotomayor</nombre>
+    <nombre>Pedro Gonzalez </nombre>
     <telefono> 66775544</telefono>
     <contacto>joseluis1</contacto>
-    <mail>pedrogonzalez@gmail.com</mail>
+    <mail>pedro@gmail.com</mail>
   </Cliente>
   <Cliente>
     <dni>55443322Y1</dni>
-    <nombre>Pedro Gonzalez Sotomayor</nombre>
+    <nombre>Pedro</nombre>
     <telefono> 66775544</telefono>
     <contacto>joseluis2</contacto>
-    <mail>pedrogonzalez@gmail.com</mail>
+    <mail>pe@gmail.com</mail>
   </Cliente>
   <Cliente>
     <dni>55443322Y2</dni>
-    <nombre>Pedro Gonzalez Sotomayor</nombre>
+    <nombre>Patricia lopez</nombre>
     <telefono> 66775544</telefono>
     <contacto>joseluis3</contacto>
-    <mail>pedrogonzalez@gmail.com</mail>
+    <mail>patricia@gmail.com</mail>
   </Cliente>
 </ArrayOfCliente>

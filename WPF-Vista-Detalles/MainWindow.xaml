@@ -7,7 +7,7 @@
         xmlns:ed="http://schemas.microsoft.com/expression/2010/drawing" x:Class="WPF_Vista_Detalles.MainWindow"
         mc:Ignorable="d"
         SizeToContent="WidthAndHeight"
-        Title="MainWindow" Height="303.796" Width="522.69">
+        Title="MainWindow" Height="Auto" Width="Auto">
 
     <DockPanel Margin="10">
         <DockPanel Margin="0,0,10,0">
