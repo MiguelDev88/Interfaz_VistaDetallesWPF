@@ -22,3 +22,27 @@ C:\Users\a15carlosmpf\Documents\Visual Studio 2015\Projects\WPF-Vista-Detalles\W
 C:\Users\a15carlosmpf\Documents\Visual Studio 2015\Projects\WPF-Vista-Detalles\WPF-Vista-Detalles\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
 C:\Users\a15carlosmpf\Documents\Visual Studio 2015\Projects\WPF-Vista-Detalles\WPF-Vista-Detalles\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
 C:\Users\a15carlosmpf\Documents\Visual Studio 2015\Projects\WPF-Vista-Detalles\WPF-Vista-Detalles\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\a15carlosmpf\Source\Repos\Interfaz_VistaDetallesWPF\WPF-Vista-Detalles\bin\Debug\WPF-Vista-Detalles.exe.config
+C:\Users\a15carlosmpf\Source\Repos\Interfaz_VistaDetallesWPF\WPF-Vista-Detalles\obj\Debug\WPF-Vista-Detalles.exe
+C:\Users\a15carlosmpf\Source\Repos\Interfaz_VistaDetallesWPF\WPF-Vista-Detalles\obj\Debug\WPF-Vista-Detalles.pdb
+C:\Users\a15carlosmpf\Source\Repos\Interfaz_VistaDetallesWPF\WPF-Vista-Detalles\obj\Debug\WPF-Vista-Detalles.csprojResolveAssemblyReference.cache
+C:\Users\a15carlosmpf\Source\Repos\Interfaz_VistaDetallesWPF\WPF-Vista-Detalles\obj\Debug\MainWindow.g.cs
+C:\Users\a15carlosmpf\Source\Repos\Interfaz_VistaDetallesWPF\WPF-Vista-Detalles\obj\Debug\App.g.cs
+C:\Users\a15carlosmpf\Source\Repos\Interfaz_VistaDetallesWPF\WPF-Vista-Detalles\obj\Debug\WPF-Vista-Detalles_MarkupCompile.cache
+C:\Users\a15carlosmpf\Source\Repos\Interfaz_VistaDetallesWPF\WPF-Vista-Detalles\obj\Debug\WPF-Vista-Detalles_MarkupCompile.lref
+C:\Users\a15carlosmpf\Source\Repos\Interfaz_VistaDetallesWPF\WPF-Vista-Detalles\bin\Debug\WPF-Vista-Detalles.exe
+C:\Users\a15carlosmpf\Source\Repos\Interfaz_VistaDetallesWPF\WPF-Vista-Detalles\bin\Debug\WPF-Vista-Detalles.pdb
+C:\Users\a15carlosmpf\Source\Repos\Interfaz_VistaDetallesWPF\WPF-Vista-Detalles\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\a15carlosmpf\Source\Repos\Interfaz_VistaDetallesWPF\WPF-Vista-Detalles\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\a15carlosmpf\Source\Repos\Interfaz_VistaDetallesWPF\WPF-Vista-Detalles\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\a15carlosmpf\Source\Repos\Interfaz_VistaDetallesWPF\WPF-Vista-Detalles\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\a15carlosmpf\Source\Repos\Interfaz_VistaDetallesWPF\WPF-Vista-Detalles\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\a15carlosmpf\Source\Repos\Interfaz_VistaDetallesWPF\WPF-Vista-Detalles\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\a15carlosmpf\Source\Repos\Interfaz_VistaDetallesWPF\WPF-Vista-Detalles\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\a15carlosmpf\Source\Repos\Interfaz_VistaDetallesWPF\WPF-Vista-Detalles\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\a15carlosmpf\Source\Repos\Interfaz_VistaDetallesWPF\WPF-Vista-Detalles\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\a15carlosmpf\Source\Repos\Interfaz_VistaDetallesWPF\WPF-Vista-Detalles\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\a15carlosmpf\Source\Repos\Interfaz_VistaDetallesWPF\WPF-Vista-Detalles\obj\Debug\MainWindow.baml
+C:\Users\a15carlosmpf\Source\Repos\Interfaz_VistaDetallesWPF\WPF-Vista-Detalles\obj\Debug\WPF-Vista-Detalles.g.resources
+C:\Users\a15carlosmpf\Source\Repos\Interfaz_VistaDetallesWPF\WPF-Vista-Detalles\obj\Debug\WPF_Vista_Detalles.Properties.Resources.resources
+C:\Users\a15carlosmpf\Source\Repos\Interfaz_VistaDetallesWPF\WPF-Vista-Detalles\obj\Debug\WPF-Vista-Detalles.csproj.GenerateResource.Cache

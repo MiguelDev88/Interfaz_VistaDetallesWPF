@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Cliente xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dni>ddd</dni>
+  <nombre>ddd</nombre>
+  <telefono>ddd</telefono>
+  <contacto>ddd</contacto>
+  <mail>ddd</mail>
+</Cliente><?xml version="1.0" encoding="utf-8"?>
+<Cliente xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dni>ddd</dni>
+  <nombre>ddd</nombre>
+  <telefono>ddd</telefono>
+  <contacto>ddd</contacto>
+  <mail>ddd</mail>
+</Cliente>
